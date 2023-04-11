@@ -22,3 +22,6 @@ Scenario: To validate the partial text
   Given user should navigate to the home page
   When user select to the search button
   And user pass to the biry value
+@Test2
+Scenario: To validate to the search products
+  
